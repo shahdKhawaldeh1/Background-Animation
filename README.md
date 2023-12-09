@@ -14,9 +14,9 @@ The "Background Changer" project is a web application that allows users to chang
 
 ## Usage
 
-To use the "Background Changer" project, simply open the `index.html` file in a web browser. The application will load with the initial forest scene in Japan as the background.
+To use the "Background Changer" project, simply open the `index.html` file in a web browser. The application will load with the Capital of Palestine as the background.
 
-To change the background, click the "Change Background" button. Each click will smoothly transition to a different location (Brazil, Serbia, and Africa) with corresponding text changes.
+To change the background, click the "Change Background" button. Each click will smoothly transition to a different location  with corresponding text changes.
 
 Feel free to explore and enjoy the diverse landscapes and cultures offered by the "Background Changer" project!
 
