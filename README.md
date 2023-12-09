@@ -26,21 +26,8 @@ Feel free to explore and enjoy the diverse landscapes and cultures offered by th
 2. Navigate to the project directory: `cd background-changer-project`
 3. Open the project in a code editor of your choice.
 
-## Preview
-
-Insert a screenshot or GIF of the project in action:
-
-![Preview](preview.gif)
-
-## Contributing
-
-Contributions are welcome! If you have any ideas, bug fixes, or improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ### email:
 ```
-yossefsabry66@gmail.com
+shahdkhawaldeh2001@gmail.com
 ```
