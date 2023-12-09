@@ -7,8 +7,6 @@
 The "Background Changer" project is a web application that allows users to change the background image of a webpage using HTML, CSS, and JavaScript. With the click of a button, users can explore different locations around the world with animated transitions and dynamic text changes.
 
 ## Features
-
-- Change background from a forest scene in Japan to various locations.
 - Smooth animated transitions between backgrounds.
 - Dynamic text changes providing information about each location.
 - Button click triggers the background transition and text update.
